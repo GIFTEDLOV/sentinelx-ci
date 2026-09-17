@@ -1,0 +1,21 @@
+{
+  "candidate_sha256": "72c240f0725dc314429d01f051d4b40dc906623f48ba2b38514824d7f46011e5",
+  "checks": {
+    "adversarial_tests": true,
+    "direct_tests": true,
+    "genvm_lint": true,
+    "schema": true,
+    "source_parity": true,
+    "transaction_safety": true,
+    "typecheck": true
+  },
+  "evidence_id": "ci-v2-safe-1789605484177254300",
+  "expires_at": 1789691884,
+  "issuer": "GIFTEDLOV/sentinelx-ci",
+  "kind": "ci",
+  "parent_sha256": "470c9a72c63f8ca345956299edc530bc92924eaa1708c05a767b141df05d1c4f",
+  "policy_fingerprint": "2fef3c42aa1a620c6d1aba86fbcef6cf05e8e61c62e871c0bb91f50df969f7bb",
+  "published_at": 1789605484,
+  "schema": "sentinelx-evidence-v1",
+  "target": "0xB63da453727771ae85c83fB8e64612c894C688c5"
+}
