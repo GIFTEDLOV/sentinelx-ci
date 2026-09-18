@@ -1,0 +1,21 @@
+{
+  "candidate_sha256": "1073b34f141b9dc5ba689ef3d98293fd628e30695dbd9092a9c6ecaba3d8c27d",
+  "checks": {
+    "adversarial_tests": true,
+    "direct_tests": true,
+    "genvm_lint": true,
+    "schema": true,
+    "source_parity": true,
+    "transaction_safety": true,
+    "typecheck": true
+  },
+  "evidence_id": "ci-studionet-v22-safe-1789728082645631500",
+  "expires_at": 1789814182,
+  "issuer": "GIFTEDLOV/sentinelx-ci",
+  "kind": "ci",
+  "parent_sha256": "47bf21c12574ec8d43a41d79c987e1206b3c65b3e7f0e7998c8a3ff1179d2631",
+  "policy_fingerprint": "ca673df689c9f4e1dfe87a4590666be00142f551059707a70df5b547a2c7978c",
+  "published_at": 1789727782,
+  "schema": "sentinelx-evidence-v1",
+  "target": "0x9e0e22C8f35312E75C66f0255d4559f90e4fCd09"
+}
